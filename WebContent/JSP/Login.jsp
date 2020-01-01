@@ -81,7 +81,7 @@ html {
 						 <form name="form" action="<%=request.getContextPath()%>/LoginServlet" method="post">
 							<p>
 								<label for="username" class="uname" data-icon="u"
-									style="color: black"><b> Employee ID: </b></label><br> <input
+									style="color: black"><b> Employee PAMMY: </b></label><br> <input
 									id="username" name="EmployeeID" required="required" type="text" style="font-size:15px" />
 							</p>
 							<p>
